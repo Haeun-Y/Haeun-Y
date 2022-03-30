@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Haeun-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeun-Y&count_private=true&show_icons=true&theme=github_dark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Haeun-Y)](https://solved.ac/hahaha329)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahaha329)](https://solved.ac/hahaha329)
